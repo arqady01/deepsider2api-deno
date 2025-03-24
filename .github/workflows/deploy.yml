@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "arqady01-deepsider2a-14"
+          project: "arqady01-deepsider2a-22"
           entrypoint: "main.ts"
           root: ""
           
